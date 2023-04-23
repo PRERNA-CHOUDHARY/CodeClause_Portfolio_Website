@@ -31,5 +31,5 @@ The `style.css` file contains the styling for the website, and the `script.js` f
 ## Credits
 This website was created by Prerna Choudhary during CodeClause internship.
 
-### Link 🔗:http://www.prernachoudhary.xyz/
+### Link 🔗:https://prerna-choudhary.github.io/CodeClause_Portfolio_Website/
 
